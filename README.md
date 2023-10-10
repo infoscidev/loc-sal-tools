@@ -35,15 +35,10 @@ Before running the `loc-sal-tools.py` script, ensure you have the following prer
 
 - Python 3.x: You can download Python from the [official Python website](https://www.python.org/downloads/).
 - Pandas: This script utilizes the Pandas library for data manipulation. Install it using pip:
-\```bash
-pip install pandas
-\```
+```pip install pandas```
 
 - PyYAML: PyYAML is used for reading configuration files in YAML format. Install it using pip:
-\```bash
-pip install PyYAML
-\```
-
+```pip install PyYAML```
 
 ## Getting Started
 

@@ -50,7 +50,7 @@ The `user-config.yaml` file contains essential variables you'll need to customiz
 
 - `CONGRESS`: Specify the name of the Congress you are working on. For example, you can set it to "55th Congress."
 
-- `EXCEL_FILE`: Indicate the name and path of the Excel file you want to process. Make sure to replace the default value, `congress-55.xlsx`, with the actual name of your input Excel file.
+- `EXCEL_FILE`: Indicate the name of the Excel file you want to process. Make sure to replace the default value, `congress-55.xlsx`, with the actual name of your input Excel file.
 
 - `START_ROW`: Adjust this variable to skip initial rows in your Excel file, such as headers or introductory information. Set it to the row number where the first occurrence of "Session 1" appears under the "Session" column.
 

@@ -24,12 +24,14 @@ loc-sal-tools/
 
 ## Quick Start
 1. **Setup**: Ensure you have Python 3.11.5 or newer installed. Not sure? [Here's how to check your Python version.](link_to_a_guide)
-2. **Install Required Libraries**: Open your terminal or command prompt and navigate to the directory containing this toolset. Then, run the following command to install the required libraries:. Then run `pip install -r requirements.txt`.
+2. **Install Required Libraries**: Open your terminal or command prompt and navigate to the directory containing this toolset. Then, run the following command to install the required libraries: `pip install -r requirements.txt`.
 3. **Edit Variables**: Open `user-config.yaml`
 4. **Run the Script**: Once variables are set and saved, run the script `python loc-sal-tools.py`.
-5. **Copy code to Word Doc**: After the generation of HTML code for the individual Congress is complete, you will copy all the code into a Word document and save it.  
+5. **Copy code to Word Doc**: After the generation of HTML code for the individual Congress is complete, you will copy all the code into a Word document and save it.
 
-## Prerequisites
+## Getting Started
+
+### Prerequisites
 
 Before running the `loc-sal-tools.py` script, ensure you have the following prerequisites installed:
 
@@ -39,8 +41,6 @@ Before running the `loc-sal-tools.py` script, ensure you have the following prer
 
 - PyYAML: PyYAML is used for reading configuration files in YAML format. Install it using pip:
 ```pip install PyYAML```
-
-## Getting Started
 
 ### 1. **Preparing Your Excel File**
 Ensure your Excel file's name matches the `EXCEL_FILE` variable and is in the `excel-files` directory.

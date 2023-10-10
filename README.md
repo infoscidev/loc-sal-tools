@@ -26,9 +26,8 @@ loc-sal-tools/
 1. **Setup**: Ensure you have Python 3.11.5 or newer installed. Not sure? [Here's how to check your Python version.](link_to_a_guide)
 2. **Install Required Libraries**: Open your terminal or command prompt and navigate to the directory containing this toolset. Then, run the following command to install the required libraries:. Then run `pip install -r requirements.txt`.
 3. **Edit Variables**: Open `user-config.yaml`
-4. **Run the Script**: Once variables are set, follow the **Getting Started** steps for each script.
-5. **Copy code to Word Doc**: When you have finished and completed writing the code for the individual Congress, you will copy all the code into a Word document.  
-6. **Need Help?**: Refer to the troubleshooting sections below.
+4. **Run the Script**: Once variables are set and saved, run the script `python loc-sal-tools.py`.
+5. **Copy code to Word Doc**: After the generation of HTML code for the individual Congress is complete, you will copy all the code into a Word document and save it.  
 
 ## Prerequisites
 
@@ -52,7 +51,7 @@ pip install PyYAML
 Ensure your Excel file's name matches the `EXCEL_FILE` variable and is in the `excel-files` directory.
 
 ### 2. **Setting User Configuration Variables**
-The `user-config.yaml` file contains essential variables that you'll need to customize before running the script. These variables include:
+The `user-config.yaml` file contains essential variables you'll need to customize before running the script. These variables include:
 
 - `CONGRESS`: Specify the name of the Congress you are working on. For example, you can set it to "55th Congress."
 
@@ -62,7 +61,7 @@ The `user-config.yaml` file contains essential variables that you'll need to cus
 
 - `PUBLIC_PDF_URL` & `PRIVATE_PDF_URL`: You will need to provide the URLs to the PDF files associated with your Congress. To obtain these URLs, visit the [Library of Congress Statutes at Large collection](https://www.loc.gov/collections/united-states-statutes-at-large/articles-and-essays/acts-of-congress/) in your web browser. Extract the relevant URLs from this collection and replace the default values with the correct links.
 
-- `CONGRESS_START_DATE` & `CONGRESS_END_DATE`: Define the date range that corresponds to your Congress. Update these variables with the appropriate start and end dates for your Congress.
+- `CONGRESS_START_DATE` & `CONGRESS_END_DATE`: Define the date range corresponding to your Congress. Update these variables with the appropriate start and end dates for your Congress.
 
 - `OUTPUT_FILE`: This variable determines the name of the generated HTML file. The default value is `statutes_at_large_Congress_55.html`. Customize it by replacing "Congress_55" with the appropriate Congress number for your project.
 

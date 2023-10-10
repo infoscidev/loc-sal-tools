@@ -8,7 +8,6 @@ The `loc-sal-tools.py` is a Python script designed for the Library of Congress S
 loc-sal-tools/
 │
 ├── .gitignore
-├── README.md
 ├── LICENSE
 ├── loc-sal-tools.py
 ├── user-config.yaml

@@ -1,0 +1,19 @@
+#Begin - User Editable Variables
+CONGRESS: 55th Congress
+CONGRESS_START_DATE: 1897
+CONGRESS_END_DATE: 1899
+PUBLIC_PDF_URL: https://tile.loc.gov/storage-services/service/ll/llsl//llsl-c55/llsl-c55.pdf
+PRIVATE_PDF_URL: https://tile.loc.gov/storage-services/service/ll/llsl//llsl-c55-private/llsl-c55-private.pdf
+
+EXCEL_FILE: congress-55.xlsx
+START_ROW: 10
+OUTPUT_FILE: statutes_at_large_Congress_55.html
+# End - User Editable Variable
+
+# - Begin Directory and File Naming Constants (Do not edit unless you know what you are doing)
+EXCEL_DIR: excel-files
+HTML_DIR: html-files
+TMP_DIR: tmp
+IN_PROCESS_PREFIX: in-process_
+AUDITED_PREFIX: audited_
+# - End Directory and File Naming Constant

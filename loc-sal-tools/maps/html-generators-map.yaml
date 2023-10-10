@@ -1,0 +1,36 @@
+Law: html_for_law
+Act: html_for_act_resolution_appendix
+Resolution: html_for_act_resolution_appendix
+Additional Act: generic_html_generator
+Agreement: generic_html_generator
+Amended Article: generic_html_generator
+Arbitration: generic_html_generator
+Arrangement: generic_html_generator
+Concurrent Resolution: generic_html_generator
+Commercial Convention: generic_html_generator
+Convention: generic_html_generator
+Convention and Final Protocol: generic_html_generator
+Declaration: generic_html_generator
+Declaration and Final Protocol: generic_html_generator
+General Act: generic_html_generator
+Proclamation: generic_html_generator
+List: generic_html_generator
+Memorandom of an Agreement: generic_html_generator
+Parcels Post Convention: generic_html_generator
+Postal Convention: generic_html_generator
+Protocol: generic_html_generator
+Protocol and Agreement: generic_html_generator
+Supplementary Convention: generic_html_generator
+Table: generic_html_generator
+Treaty: generic_html_generator
+Unknown: generic_html_generator
+Articles of Confederation: html_for_articles_ordinance
+Ordinance: html_for_articles_ordinance
+Index: html_for_special_pages
+Table of Contents: html_for_special_pages
+Title Page: html_for_special_pages
+Copyright Page: html_with_empty_cells
+Joint Resolution: html_with_empty_cells
+Letter: html_with_empty_cells
+Preface: html_with_empty_cells
+International Arrangement: html_for_law

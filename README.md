@@ -1,7 +1,7 @@
 # ReadMe for loc-sal-tools
 
 ## Overview
-The `loc-sal-tools.py` is a Python script designed for the Library of Congress Statutes at Large metadata project, specifically the auditing and conversion of data found in Excel files `LoC_1-50` and `LoC_51-71`. In addition, it is meant for use with a single Excel. Worksheets in the master Excel files will need to be saved as a new Excel file for processing.
+The `loc-sal-tools.py` is a Python script designed for the Library of Congress Statutes at Large metadata project, specifically the auditing and conversion of data found in Excel files `LoC_1-50` and `LoC_51-71`. In addition, it is meant for use with a single Excel file. Worksheets in the master Excel files will need to be saved as a new Excel file for processing.
 
 ## Structure
 ```

@@ -13,7 +13,7 @@ loc-sal-tools/
 ├── user-config.yaml
 ├── requirements.txt
 │
-├── excel-files/   # Directory to hold Excel input files
+├── excel-files/   # Directory to hold Excel input and generated files
 │
 ├── html-files/    # Directory to hold generated HTML output files
 │
